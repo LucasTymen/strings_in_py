@@ -2,11 +2,16 @@
 
 Introduction to Strings
 
-Words and sentences are fundamental to how we communicate, so it follows that we’d want our computers to be able to work with words and sentences as well.
+Words and sentences are fundamental to how we communicate, so it follows that we’d want our computers to be able to work
+with words and sentences as well.
 
-In Python, the way we store something like a word, a sentence, or even a whole paragraph is as a string. A string is a sequence of characters contained within a pair of 'single quotes' or "double quotes". A string can be any length and can contain any letters, numbers, symbols, and spaces.
+In Python, the way we store something like a word, a sentence, or even a whole paragraph is as a string. A string is a
+sequence of characters contained within a pair of 'single quotes' or "double quotes". A string can be any length and can
+contain any letters, numbers, symbols, and spaces.
 
-In this lesson, we will learn more about strings and how they are treated in Python. We will learn how to slice strings, select specific characters from strings, search strings for characters, iterate through strings, and use strings in conditional statements.
+In this lesson, we will learn more about strings and how they are treated in Python. We will learn how to slice strings,
+select specific characters from strings, search strings for characters, iterate through strings, and use strings in
+conditional statements.
 
 Let’s get started.
 Instructions
