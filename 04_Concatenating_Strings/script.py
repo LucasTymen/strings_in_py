@@ -1,9 +1,9 @@
-first_name = "Julie"
-last_name = "Blevins"
-new_account_name =[]
-def account_generator(first_name, last_name):
-  new_account_name = first_name[:3]+last_name[:3]
-  return new_account_name
+first_name = "Reiko"
+last_name = "Matsuki"
 
-new_account = account_generator("Julie","Blevins")
-print(new_account)
+def password_generator(first_name, last_name):
+  temp_password = first_name[len(first_name)-3:] + last_name[len(last_name)-3:]
+  return temp_password
+
+temp_password = password_generator(first_name, last_name)
+print(password_generator(first_name, last_name))
